@@ -32,8 +32,8 @@ Develop a user-friendly web application that enables users to:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd sage_project
+   git clone https://github.com/arnon3339/sage-project.git
+   cd sage-project
    ```
 
 2. Set up the virtual environment:
